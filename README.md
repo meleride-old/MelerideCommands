@@ -89,4 +89,4 @@ public final class ExamplePlugin extends JavaPlugin {
 [MIT](LICENSE)
 
 ## Credits
-[TheMolkaPL] for [BukkitCommands](https://github.com/TheMolkaPL/BukkitCommands)
+[TheMolkaPL](https://github.com/TheMolkaPL) for [BukkitCommands](https://github.com/TheMolkaPL/BukkitCommands)
